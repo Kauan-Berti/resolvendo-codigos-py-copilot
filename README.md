@@ -1,6 +1,6 @@
 # Resolvendo Códigos em Python com o GitHub Copilot e GitHub Codespaces
 
-Olá!! Aqui veremos algumas resoluções de códigos em **Python** utilizando o **GitHub Copilot** como assistente de programação e o **GitHub Codespaces** como ambiente de desenvolvimento na nuvem. 
+Olá!!! Aqui veremos algumas resoluções de códigos em **Python** utilizando o **GitHub Copilot** como assistente de programação e o **GitHub Codespaces** como ambiente de desenvolvimento na nuvem. 
 
 ### Atenção ⚠️ 
 
