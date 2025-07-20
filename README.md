@@ -1,11 +1,11 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Resolvendo Códigos em Python com o GitHub Copilot e GitHub Codespaces
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Olá!! Aqui veremos algumas resoluções de códigos em **Python** utilizando o **GitHub Copilot** como assistente de programação e o **GitHub Codespaces** como ambiente de desenvolvimento na nuvem. 
 
 ### Atenção ⚠️ 
 
 Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ?
 
 ## 1 - Concatenando Dados 🐾
 
